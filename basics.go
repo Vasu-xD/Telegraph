@@ -73,7 +73,7 @@ func html(b *gotgbot.Bot, ctx *ext.Context) error {
 
 // ---------------------------------------------- //
 
-var guideLink = "https://telegra.ph/Telegraph-Bot-Usage-Guide-Stark-Bots-02-26"
+var guideLink = "https://telegra.ph/TelegraphBot-03-02"
 
 var htmlTut = "https://geekyweb.tk/docs/html"
 
